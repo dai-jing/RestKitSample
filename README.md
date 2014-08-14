@@ -18,4 +18,5 @@ e.g.
   ```
   // temp is the key of JSON data get from webservice, currentTemp is the property of the class
   [mapping addAttributeMappingsFromDictionary:@{@"temp" : @"currentTemp"}];
+  
   ```
