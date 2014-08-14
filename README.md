@@ -11,6 +11,6 @@ e.g.
 
   1. create class `DJMain` with property `currentTemp`.
   2. create `RKObjectMapping` for this model class.
-  
-
   `RKObjectMapping *mapping = [[RKObjectMapping alloc] initWithClass:[self class]];`
+  3. configure mapping
+  `[mapping addAttributeMappingsFromDictionary:@{@"temp" : @"currentTemp"}];`
