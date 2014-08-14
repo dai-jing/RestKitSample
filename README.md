@@ -13,5 +13,8 @@ e.g.
   2. create `RKObjectMapping` for this model class. "\n"
   `RKObjectMapping *mapping = [[RKObjectMapping alloc] initWithClass:[self class]];`
   3. configure mapping.
+  ```
   // temp is the key of JSON data get from webservice, currentTemp is the property of the class
-  `[mapping addAttributeMappingsFromDictionary:@{@"temp" : @"currentTemp"}];`
+  [mapping addAttributeMappingsFromDictionary:@{@"temp" : @"currentTemp"}];
+  
+  ```
