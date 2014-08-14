@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C3EE8D86-FBD7-45E4-A801-CFF0410696DC</string>
+	<string>BF70426F-FDE0-48F3-B9F7-2211A07DAD0A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>RestKitSample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>EC998C25-3A12-48A2-9D7F-2241E4C135DE</key>
-		<string>ssh://github.com/dai-jing/RestKitSample.git</string>
+		<key>3CFDDA760F3E63575E5091D65FDF5DAACB8E4382</key>
+		<string>https://github.com/dai-jing/RestKitSample.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>RestKitSample.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>EC998C25-3A12-48A2-9D7F-2241E4C135DE</key>
+		<key>3CFDDA760F3E63575E5091D65FDF5DAACB8E4382</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/dai-jing/RestKitSample.git</string>
+	<string>https://github.com/dai-jing/RestKitSample.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>EC998C25-3A12-48A2-9D7F-2241E4C135DE</string>
+	<string>3CFDDA760F3E63575E5091D65FDF5DAACB8E4382</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>EC998C25-3A12-48A2-9D7F-2241E4C135DE</string>
+			<string>3CFDDA760F3E63575E5091D65FDF5DAACB8E4382</string>
 			<key>IDESourceControlWCCName</key>
 			<string>RestKitSample</string>
 		</dict>
